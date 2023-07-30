@@ -1,0 +1,1307 @@
+CRITICAL - 2023-05-21 10:45:45 --> Undefined variable $image
+in APPPATH\Controllers\publicacionController.php on line 47.
+ 1 APPPATH\Controllers\publicacionController.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $image', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 47)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 10:46:31 --> Undefined variable $uploadPath
+in APPPATH\Controllers\publicacionController.php on line 48.
+ 1 APPPATH\Controllers\publicacionController.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $uploadPath', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 48)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 10:47:19 --> Undefined property: App\Controllers\publicacionController::$load
+in APPPATH\Controllers\publicacionController.php on line 52.
+ 1 APPPATH\Controllers\publicacionController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\publicacionController::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 10:47:34 --> Undefined property: App\Controllers\publicacionController::$load
+in APPPATH\Controllers\publicacionController.php on line 52.
+ 1 APPPATH\Controllers\publicacionController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\publicacionController::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 10:48:18 --> Undefined property: App\Controllers\publicacionController::$load
+in APPPATH\Controllers\publicacionController.php on line 52.
+ 1 APPPATH\Controllers\publicacionController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\publicacionController::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 11:06:20 --> Undefined property: App\Controllers\publicacionController::$load
+in APPPATH\Controllers\publicacionController.php on line 52.
+ 1 APPPATH\Controllers\publicacionController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\publicacionController::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 11:07:18 --> Undefined property: App\Controllers\publicacionController::$load
+in APPPATH\Controllers\publicacionController.php on line 52.
+ 1 APPPATH\Controllers\publicacionController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\publicacionController::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 11:07:42 --> Undefined property: App\Controllers\publicacionController::$load
+in APPPATH\Controllers\publicacionController.php on line 52.
+ 1 APPPATH\Controllers\publicacionController.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\publicacionController::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 12:03:03 --> Undefined variable $nombre
+in APPPATH\Models\ubicacionModel.php on line 20.
+ 1 APPPATH\Models\ubicacionModel.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'D:\\wamp64\\www\\mascotas\\app\\Models\\ubicacionModel.php', 20)
+ 2 APPPATH\Controllers\publicacionController.php(55): App\Models\UbicacionModel->guardarDireccion([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 12:28:33 --> Class "App\Models\mascotasModel" not found
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 12:29:47 --> Class "App\Models\mascotasModel" not found
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 12:30:46 --> Class "App\Models\mascotasModel" not found
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 12:31:04 --> Class "App\Models\mascotasModel" not found
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 14:55:36 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 15.
+ 1 APPPATH\Models\mascotasModel.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 15)
+ 2 APPPATH\Controllers\publicacionController.php(72): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 14:57:08 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(72): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 14:57:34 --> Undefined array key "name"
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 14:58:11 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(72): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 14:58:40 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(72): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:00:05 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(72): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:00:11 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(72): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:00:56 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:01:35 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:02:05 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:07:12 --> Undefined array key "idUbicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "idUbicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:07:56 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:08:48 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:10:40 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:18:35 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:22:18 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:26:29 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:45:19 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:45:49 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:51:42 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:52:33 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:53:14 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:53:20 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:54:05 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:54:31 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:54:36 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:55:39 --> Undefined variable $ubicacion
+in APPPATH\Controllers\publicacionController.php on line 70.
+ 1 APPPATH\Controllers\publicacionController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ubicacion', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:56:47 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:57:26 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:58:06 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:59:05 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 15:59:31 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:00:56 --> Call to undefined function App\Controllers\int()
+in APPPATH\Controllers\publicacionController.php on line 61.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:02:06 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:05:39 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\MascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:11:33 --> Undefined array key "Ubicacion_id"
+in APPPATH\Models\mascotasModel.php on line 16.
+ 1 APPPATH\Models\mascotasModel.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Ubicacion_id"', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 16)
+ 2 APPPATH\Controllers\publicacionController.php(74): App\Models\MascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-21 16:15:18 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?,?,?,?,?,?,?,?)' at line 3 in D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO mas...', 0)
+#1 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO mas...')
+#2 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO mas...')
+#3 D:\wamp64\www\mascotas\app\Models\mascotasModel.php(31): CodeIgniter\Database\BaseConnection->query('INSERT INTO mas...', Array)
+#4 D:\wamp64\www\mascotas\app\Controllers\publicacionController.php(74): App\Models\mascotasModel->cargarMascota(Array)
+#5 D:\wamp64\www\mascotas\system\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+#6 D:\wamp64\www\mascotas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+#7 D:\wamp64\www\mascotas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\mascotas\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-05-21 16:16:50 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?,?,?,?,?,?,?,?)' at line 3 in D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO mas...', 0)
+#1 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO mas...')
+#2 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO mas...')
+#3 D:\wamp64\www\mascotas\app\Models\mascotasModel.php(31): CodeIgniter\Database\BaseConnection->query('INSERT INTO mas...', Array)
+#4 D:\wamp64\www\mascotas\app\Controllers\publicacionController.php(76): App\Models\mascotasModel->cargarMascota(Array)
+#5 D:\wamp64\www\mascotas\system\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+#6 D:\wamp64\www\mascotas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+#7 D:\wamp64\www\mascotas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\mascotas\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-05-21 16:17:13 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?,?,?,?,?,?,?,?)' at line 3 in D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO mas...', 0)
+#1 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO mas...')
+#2 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO mas...')
+#3 D:\wamp64\www\mascotas\app\Models\mascotasModel.php(31): CodeIgniter\Database\BaseConnection->query('INSERT INTO mas...', Array)
+#4 D:\wamp64\www\mascotas\app\Controllers\publicacionController.php(76): App\Models\mascotasModel->cargarMascota(Array)
+#5 D:\wamp64\www\mascotas\system\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+#6 D:\wamp64\www\mascotas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+#7 D:\wamp64\www\mascotas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\mascotas\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-05-21 16:19:08 --> Undefined variable $calle
+in APPPATH\Models\mascotasModel.php on line 43.
+ 1 APPPATH\Models\mascotasModel.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $calle', 'D:\\wamp64\\www\\mascotas\\app\\Models\\mascotasModel.php', 43)
+ 2 APPPATH\Controllers\publicacionController.php(75): App\Models\mascotasModel->cargarMascota([...])
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-21 16:25:13 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?,?,?,?,?,?,?,?)' at line 3 in D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO mas...', 0)
+#1 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO mas...')
+#2 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO mas...')
+#3 D:\wamp64\www\mascotas\app\Models\mascotasModel.php(32): CodeIgniter\Database\BaseConnection->query('INSERT INTO mas...', Array)
+#4 D:\wamp64\www\mascotas\app\Controllers\publicacionController.php(75): App\Models\mascotasModel->cargarMascota(Array)
+#5 D:\wamp64\www\mascotas\system\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+#6 D:\wamp64\www\mascotas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+#7 D:\wamp64\www\mascotas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\mascotas\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-05-21 16:26:02 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?,?,?,?,?,?,?,?)' at line 3 in D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO mas...', 0)
+#1 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO mas...')
+#2 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO mas...')
+#3 D:\wamp64\www\mascotas\app\Models\mascotasModel.php(32): CodeIgniter\Database\BaseConnection->query('INSERT INTO mas...', Array)
+#4 D:\wamp64\www\mascotas\app\Controllers\publicacionController.php(75): App\Models\mascotasModel->cargarMascota(Array)
+#5 D:\wamp64\www\mascotas\system\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+#6 D:\wamp64\www\mascotas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+#7 D:\wamp64\www\mascotas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\mascotas\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-05-21 16:26:29 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?,?,?,?,?,?,?,?)' at line 3 in D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO mas...', 0)
+#1 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO mas...')
+#2 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO mas...')
+#3 D:\wamp64\www\mascotas\app\Models\mascotasModel.php(32): CodeIgniter\Database\BaseConnection->query('INSERT INTO mas...', Array)
+#4 D:\wamp64\www\mascotas\app\Controllers\publicacionController.php(75): App\Models\mascotasModel->cargarMascota(Array)
+#5 D:\wamp64\www\mascotas\system\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+#6 D:\wamp64\www\mascotas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+#7 D:\wamp64\www\mascotas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\mascotas\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2023-05-21 16:27:50 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?,?,?,?,?,?,?,?,?)' at line 3 in D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\wamp64\www\mascotas\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO mas...', 0)
+#1 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO mas...')
+#2 D:\wamp64\www\mascotas\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO mas...')
+#3 D:\wamp64\www\mascotas\app\Models\mascotasModel.php(32): CodeIgniter\Database\BaseConnection->query('INSERT INTO mas...', Array)
+#4 D:\wamp64\www\mascotas\app\Controllers\publicacionController.php(75): App\Models\mascotasModel->cargarMascota(Array)
+#5 D:\wamp64\www\mascotas\system\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+#6 D:\wamp64\www\mascotas\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+#7 D:\wamp64\www\mascotas\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\wamp64\www\mascotas\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-05-21 16:39:35 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(80): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:39:57 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(80): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:41:09 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(81): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:41:41 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(81): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:42:19 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:43:01 --> Undefined variable $estados
+in APPPATH\Views\publicacion.php on line 93.
+ 1 APPPATH\Views\publicacion.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $estados', 'D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php', 93)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicacion', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('publicacion', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:44:09 --> Undefined variable $estados
+in APPPATH\Views\publicacion.php on line 93.
+ 1 APPPATH\Views\publicacion.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $estados', 'D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php', 93)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicacion', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('publicacion')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:44:37 --> Undefined variable $estados
+in APPPATH\Views\publicacion.php on line 93.
+ 1 APPPATH\Views\publicacion.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $estados', 'D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php', 93)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicacion', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('publicacion')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:45:03 --> Invalid file: "/.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/', [], true)
+ 3 APPPATH\Controllers\publicacionController.php(82): view('/')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:46:19 --> Invalid file: ".php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('', [], true)
+ 3 APPPATH\Controllers\publicacionController.php(82): view('')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:54:28 --> Undefined variable $estados
+in APPPATH\Views\publicacion.php on line 93.
+ 1 APPPATH\Views\publicacion.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $estados', 'D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php', 93)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicacion', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('publicacion')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:56:44 --> Undefined variable $estados
+in APPPATH\Views\publicacion.php on line 93.
+ 1 APPPATH\Views\publicacion.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $estados', 'D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php', 93)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicacion', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('publicacion')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 16:59:48 --> Undefined variable $estados
+in APPPATH\Views\publicacion.php on line 93.
+ 1 APPPATH\Views\publicacion.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $estados', 'D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php', 93)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\publicacion.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicacion', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('publicacion')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:00:00 --> Invalid file: "/.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/', [], true)
+ 3 APPPATH\Controllers\publicacionController.php(82): view('/')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:05:05 --> Undefined variable $data
+in APPPATH\Controllers\publicacionController.php on line 82.
+ 1 APPPATH\Controllers\publicacionController.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\publicacionController.php', 82)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:09:55 --> base_url(): Argument #2 ($scheme) must be of type ?string, array given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\Helpers\url_helper.php on line 145.
+ 1 APPPATH\Controllers\publicacionController.php(82): base_url('dashboard', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:10:21 --> CodeIgniter\HTTP\RedirectResponse::to(): Argument #2 ($code) must be of type ?int, array given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 32.
+ 1 APPPATH\Controllers\publicacionController.php(82): CodeIgniter\HTTP\RedirectResponse->to('http://127.0.0.1/mascotas/public/dashboard', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:11:42 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:22:29 --> Undefined variable $data
+in APPPATH\Views\dashboard.php on line 65.
+ 1 APPPATH\Views\dashboard.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:24:55 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:36:53 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:40:06 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('/dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:42:01 --> Invalid file: "public/dashboard.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/dashboard.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('public/dashboard', [], true)
+ 3 APPPATH\Controllers\publicacionController.php(83): view('public/dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:56:45 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 17:58:49 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:06:55 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:07:43 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:08:09 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:09:20 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:09:45 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:11:28 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:16:44 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 67.
+ 1 APPPATH\Views\dashboard.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 67)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:17:22 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 65.
+ 1 APPPATH\Views\dashboard.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:18:45 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 65.
+ 1 APPPATH\Views\dashboard.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:23:42 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 65.
+ 1 APPPATH\Views\dashboard.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:24:17 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 65.
+ 1 APPPATH\Views\dashboard.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:28:50 --> view(): Argument #2 ($data) must be of type array, string given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\publicacionController.php(82): view('publicacion', '¡Publicacion creada exitosamente')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:29:15 --> view(): Argument #2 ($data) must be of type array, string given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\publicacionController.php(82): view('publicacionController/nuevaPub', '¡Publicacion creada exitosamente')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:36:45 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:36:55 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:37:49 --> view(): Argument #2 ($data) must be of type array, string given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\publicacionController.php(82): view('login', '¡Publicacion creada exitosamente')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 18:38:35 --> view(): Argument #2 ($data) must be of type array, string given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\publicacionController.php(82): view('dashboard', '¡Publicacion creada exitosamente')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:03:00 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 65.
+ 1 APPPATH\Views\dashboard.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:11:36 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 65.
+ 1 APPPATH\Views\dashboard.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:15:50 --> view(): Argument #2 ($data) must be of type array, string given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\publicacionController.php(82): view('dashboard', '¡Publicacion creada exitosamente')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:22:06 --> view(): Argument #2 ($data) must be of type array, string given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\publicacionController.php(82): view('dashboard', '¡Publicacion creada exitosamente')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:22:11 --> view(): Argument #2 ($data) must be of type array, string given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\publicacionController.php(82): view('dashboard', '¡Publicacion creada exitosamente')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:22:24 --> view(): Argument #2 ($data) must be of type array, string given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\publicacionController.php(82): view('dashboard', '¡Publicacion creada exitosamente')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:23:38 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:23:59 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:27:12 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:32:04 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 65.
+ 1 APPPATH\Views\dashboard.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 65)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:33:53 --> Invalid file: "publicacionController/publicar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('publicacionController/publicar.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicacionController/publicar', [], true)
+ 3 APPPATH\Controllers\publicacionController.php(82): view('publicacionController/publicar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:34:24 --> Invalid file: "publicar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('publicar.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicar', [], true)
+ 3 APPPATH\Controllers\publicacionController.php(82): view('publicar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:35:57 --> Invalid file: "publicar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('publicar.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicar', [], true)
+ 3 APPPATH\Controllers\publicacionController.php(82): view('publicar', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:36:01 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:36:36 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:37:20 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:37:40 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:39:29 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:39:53 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:40:57 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:41:43 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:42:00 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:42:16 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:42:20 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:43:34 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:45:51 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:46:23 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:46:27 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:46:40 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:46:44 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:47:04 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:47:08 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:47:39 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:47:45 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:48:10 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:48:23 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:48:44 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:49:32 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:49:54 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:51:16 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:51:21 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:52:55 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:53:47 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:54:20 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:55:21 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:55:32 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:55:42 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:56:23 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:57:10 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:57:41 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 19:58:42 --> Call to a member function isValid() on null
+in APPPATH\Controllers\publicacionController.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:02:11 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 66.
+ 1 APPPATH\Views\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:03:27 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 66.
+ 1 APPPATH\Views\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:03:31 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(79): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:03:44 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(79): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:03:48 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(79): view('dashboard')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:05:05 --> Undefined variable $userData
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userData', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(82): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:05:58 --> CodeIgniter\HTTP\RedirectResponse::with(): Argument #1 ($key) must be of type string, array given, called in D:\wamp64\www\mascotas\app\Controllers\publicacionController.php on line 82
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 130.
+ 1 APPPATH\Controllers\publicacionController.php(82): CodeIgniter\HTTP\RedirectResponse->with([...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->publicar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:06:34 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 66.
+ 1 APPPATH\Views\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:07:17 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 66.
+ 1 APPPATH\Views\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-21 20:07:43 --> Undefined variable $mensaje
+in APPPATH\Views\dashboard.php on line 66.
+ 1 APPPATH\Views\dashboard.php(66): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 66)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

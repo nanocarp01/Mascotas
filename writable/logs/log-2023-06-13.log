@@ -1,0 +1,66 @@
+CRITICAL - 2023-06-13 15:37:28 --> Undefined array key "name"
+in APPPATH\Views\publicaciones.php on line 205.
+ 1 APPPATH\Views\publicaciones.php(205): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\wamp64\\www\\mascotas\\app\\Views\\publicaciones.php', 205)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\publicaciones.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('publicaciones', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(102): view('publicaciones', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->misPublicaciones()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 15:37:55 --> Undefined array key "name"
+in APPPATH\Views\allPosts.php on line 138.
+ 1 APPPATH\Views\allPosts.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\wamp64\\www\\mascotas\\app\\Views\\allPosts.php', 138)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\allPosts.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('allPosts', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(114): view('allPosts', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->allPosts()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 15:47:55 --> Undefined variable $publicaciones
+in APPPATH\Views\dashboard.php on line 84.
+ 1 APPPATH\Views\dashboard.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 84)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 15:48:23 --> Undefined variable $publicaciones
+in APPPATH\Views\dashboard.php on line 84.
+ 1 APPPATH\Views\dashboard.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 84)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 15:58:36 --> Trying to access array offset on value of type int
+in APPPATH\Views\allPosts.php on line 132.
+ 1 APPPATH\Views\allPosts.php(132): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type int', 'D:\\wamp64\\www\\mascotas\\app\\Views\\allPosts.php', 132)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\allPosts.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('allPosts', [], true)
+ 5 APPPATH\Controllers\publicacionController.php(117): view('allPosts', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\publicacionController->allPosts()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\publicacionController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 16:15:01 --> Undefined variable $publicaciones
+in APPPATH\Views\dashboard.php on line 84.
+ 1 APPPATH\Views\dashboard.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $publicaciones', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 84)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

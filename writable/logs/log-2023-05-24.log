@@ -1,0 +1,314 @@
+CRITICAL - 2023-05-24 11:46:59 --> Undefined property: App\Controllers\usuario::$mailController
+in APPPATH\Controllers\usuario.php on line 98.
+ 1 APPPATH\Controllers\usuario.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$mailController', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 11:47:06 --> Undefined property: App\Controllers\usuario::$mailController
+in APPPATH\Controllers\usuario.php on line 98.
+ 1 APPPATH\Controllers\usuario.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$mailController', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 11:47:19 --> Undefined property: App\Controllers\usuario::$mailController
+in APPPATH\Controllers\usuario.php on line 98.
+ 1 APPPATH\Controllers\usuario.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$mailController', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 98)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 11:48:56 --> Undefined property: App\Controllers\usuario::$mailController
+in APPPATH\Controllers\usuario.php on line 100.
+ 1 APPPATH\Controllers\usuario.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$mailController', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 100)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 11:49:57 --> Undefined property: App\Controllers\usuario::$mailController
+in APPPATH\Controllers\usuario.php on line 101.
+ 1 APPPATH\Controllers\usuario.php(101): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$mailController', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 101)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 11:57:54 --> Class "App\Controllers\mailController" not found
+in APPPATH\Controllers\usuario.php on line 101.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 12:02:19 --> Undefined property: App\Controllers\usuario::$load
+in APPPATH\Controllers\usuario.php on line 102.
+ 1 APPPATH\Controllers\usuario.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 102)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 12:02:46 --> Undefined property: App\Controllers\usuario::$load
+in APPPATH\Controllers\usuario.php on line 102.
+ 1 APPPATH\Controllers\usuario.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 102)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 12:03:01 --> Undefined property: App\Controllers\usuario::$load
+in APPPATH\Controllers\usuario.php on line 102.
+ 1 APPPATH\Controllers\usuario.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 102)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 12:04:18 --> Undefined property: App\Controllers\usuario::$load
+in APPPATH\Controllers\usuario.php on line 102.
+ 1 APPPATH\Controllers\usuario.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 102)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 12:05:16 --> Undefined property: App\Controllers\usuario::$load
+in APPPATH\Controllers\usuario.php on line 102.
+ 1 APPPATH\Controllers\usuario.php(102): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 102)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 12:07:53 --> Undefined property: App\Controllers\usuario::$load
+in APPPATH\Controllers\usuario.php on line 100.
+ 1 APPPATH\Controllers\usuario.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\usuario::$load', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 100)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->codigoVerif()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 13:55:32 --> Invalid file: "/.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/', [], true)
+ 3 APPPATH\Controllers\usuario.php(144): view('/')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passChange()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 13:56:03 --> Invalid file: "/.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/', [], true)
+ 3 APPPATH\Controllers\usuario.php(144): view('/')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passChange()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 13:56:22 --> Invalid file: "/.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('/', [], true)
+ 3 APPPATH\Controllers\usuario.php(144): view('/')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passChange()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:18:40 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 125.
+ 1 APPPATH\Controllers\usuario.php(125): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 125)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:21:40 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 125.
+ 1 APPPATH\Controllers\usuario.php(125): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 125)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:24:08 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 125.
+ 1 APPPATH\Controllers\usuario.php(125): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 125)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:24:35 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 125.
+ 1 APPPATH\Controllers\usuario.php(125): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 125)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:25:31 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 125.
+ 1 APPPATH\Controllers\usuario.php(125): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 125)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:25:39 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 125.
+ 1 APPPATH\Controllers\usuario.php(125): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 125)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:49:17 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 125.
+ 1 APPPATH\Controllers\usuario.php(125): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 125)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:51:08 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 125.
+ 1 APPPATH\Controllers\usuario.php(125): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 125)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:52:29 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 126.
+ 1 APPPATH\Controllers\usuario.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 126)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:52:50 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 126.
+ 1 APPPATH\Controllers\usuario.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 126)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:54:41 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 126.
+ 1 APPPATH\Controllers\usuario.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 126)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:56:08 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 126.
+ 1 APPPATH\Controllers\usuario.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 126)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 14:59:55 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 126.
+ 1 APPPATH\Controllers\usuario.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 126)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:00:21 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 126.
+ 1 APPPATH\Controllers\usuario.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 126)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:24:57 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 126.
+ 1 APPPATH\Controllers\usuario.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 126)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:25:25 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\usuario.php on line 126.
+ 1 APPPATH\Controllers\usuario.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\wamp64\\www\\mascotas\\app\\Controllers\\usuario.php', 126)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\usuario->passReset()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\usuario))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:34:28 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:35:05 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:35:08 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:35:11 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:35:13 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:35:34 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:35:50 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:35:52 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:36:09 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:36:23 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 50.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:48:56 --> Undefined array key "name"
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-24 15:48:58 --> Undefined array key "name"
+in APPPATH\Views\dashboard.php on line 63.
+ 1 APPPATH\Views\dashboard.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\mascotas\\app\\Views\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('dashboard', [], true)
+ 5 APPPATH\Controllers\dashboardController.php(13): view('dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\dashboardController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\dashboardController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

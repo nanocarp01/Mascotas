@@ -1,0 +1,84 @@
+CRITICAL - 2023-05-17 08:23:58 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 15.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Controllers\login.php(11): view('login')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-17 09:42:37 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 15.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Controllers\login.php(11): view('login')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-17 09:43:00 --> Call to undefined function form_open()
+in APPPATH\Views\login.php on line 15.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 4 APPPATH\Controllers\login.php(11): view('login')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-17 10:15:37 --> Undefined variable $name
+in APPPATH\Controllers\login.php on line 42.
+ 1 APPPATH\Controllers\login.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'D:\\wamp64\\www\\ecommerce\\app\\Controllers\\login.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->register()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-17 10:16:10 --> Undefined variable $name
+in APPPATH\Controllers\login.php on line 42.
+ 1 APPPATH\Controllers\login.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'D:\\wamp64\\www\\ecommerce\\app\\Controllers\\login.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->register()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-17 10:16:25 --> Undefined variable $name
+in APPPATH\Controllers\login.php on line 42.
+ 1 APPPATH\Controllers\login.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'D:\\wamp64\\www\\ecommerce\\app\\Controllers\\login.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->register()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-17 10:16:45 --> Undefined variable $name
+in APPPATH\Controllers\login.php on line 42.
+ 1 APPPATH\Controllers\login.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'D:\\wamp64\\www\\ecommerce\\app\\Controllers\\login.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->register()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-17 10:19:57 --> Undefined variable $name
+in APPPATH\Controllers\login.php on line 42.
+ 1 APPPATH\Controllers\login.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $name', 'D:\\wamp64\\www\\ecommerce\\app\\Controllers\\login.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->register()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-17 14:34:49 --> Undefined property: Config\App::$indexPage
+in SYSTEMPATH\Helpers\url_helper.php on line 88.
+ 1 SYSTEMPATH\Helpers\url_helper.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: Config\\App::$indexPage', 'D:\\wamp64\\www\\ecommerce\\system\\Helpers\\url_helper.php', 88)
+ 2 SYSTEMPATH\Helpers\url_helper.php(118): _get_uri('login/do_login', Object(Config\App))
+ 3 APPPATH\Views\login.php(120): site_url('login/do_login')
+ 4 SYSTEMPATH\View\View.php(213): include('D:\\wamp64\\www\\ecommerce\\app\\Views\\login.php')
+ 5 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 7 APPPATH\Controllers\login.php(17): view('login')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-17 14:51:14 --> Call to a member function with() on string
+in APPPATH\Controllers\login.php on line 69.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->register()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
