@@ -20,8 +20,8 @@ class MailController extends BaseController{
         $mail->Host = "smtp.gmail.com";
         $mail->Port = 465;
         $mail->CharSet = 'UTF-8';
-        $mail->Username ='mailpruebaenvio557@gmail.com'; //Email para enviar
-        $mail->Password = 'ioqtowvtcvvpoofm'; //Su password
+        $mail->Username ='xxxxxxxxxxxxxxxxxxxx@gmail.com'; //Email para enviar
+        $mail->Password = 'xxxxxxxxxxxxxxxxxx'; //Su password
         //Agregar destinatario
         $mail->setFrom('patitasacasa@mail.com', 'Patitas a casa');
         $mail->AddAddress($email);//A quien mandar email
